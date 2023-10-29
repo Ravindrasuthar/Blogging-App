@@ -13,7 +13,7 @@ The Blogging App is a simple Spring Boot application that allows you to create, 
 
 The Blogging application follows a structured data flow pattern to handle requests and manage data efficiently:
 
-### Controller
+### Controller:
 
 The controller has endpoints for add a post, get a post by id, update a post, delete a post by id, add a comment, get a comment by id, update a comment by id, delete a comment by id and adding a follower corresponding to target user. 
 
