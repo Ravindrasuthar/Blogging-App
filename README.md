@@ -1,7 +1,10 @@
-# Project Name 🏠
-Blogging App
+# <h1 align="center"> Blogging App </h1>
+---
 
-# Frameworks and Language Used
+## Overview
+The Blogging App is a simple Spring Boot application that allows you to create, publish and manage your blog content. It also allow user to add, update or delete a comment for a perticular blog post. 
+
+## Frameworks and Language Used
 - **Spring Boot** 3.1.5
 - **Java** 17
 - **Maven** 3.8.1
